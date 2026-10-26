@@ -5,7 +5,7 @@
 > **Flyer**
 
 <p align="center">
-  <img src="https://placehold.co/600x750/3b1f5c/ff8c42/png?font=montserrat&text=305+Veterans+Hackathon%5CnNovember+2027%5CnIn+Person+%2B+Online%5CnFlyer+TBA" alt="305 Veterans Hackathon November 2027 Flyer" width="600">
+  <img src="https://placehold.co/600x750/3b1f5c/ff8c42/png?font=montserrat&text=305+Veterans+Hackathon%5CnNovember+2027%5CnIn+Person+%2B+Online" alt="305 Veterans Hackathon November 2027 Flyer" width="600">
 </p>
 
 ---

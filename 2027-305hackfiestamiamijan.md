@@ -5,7 +5,7 @@
 > **Flyer**
 
 <p align="center">
-  <img src="PASTE_FLYER_IMAGE_URL_HERE" alt="305 HackFiesta Miami January 2027 Flyer" width="600">
+  <img src="https://placehold.co/600x750/0f766e/d9f99d/png?font=montserrat&text=305+HackFiesta+Miami%5CnJanuary+2027%5CnIn+Person+%2B+Online%5CnFlyer+TBA" alt="305 HackFiesta Miami January 2027 Flyer" width="600">
 </p>
 
 ---

@@ -93,15 +93,56 @@ Projects can include:
 | 9:00 AM – 9:30 AM   | Hackathon kickoff, project ideas, tools, and technical resources     |
 | 9:30 AM – 11:00 AM  | Workshop #1: Hands-on technical workshop                             |
 | 11:00 AM – 11:30 AM | Networking and coffee break                                          |
-| 11:30 AM – 1:00 PM  | Workshop #2: Hands-on technical workshop                             |
+| 11:30 AM – 1:00 PM  | Workshop #2: Career Readiness Workshop                             |
 | 1:00 PM – 2:00 PM   | Lunch break and networking                                           |
-| 2:00 PM – 3:30 PM   | Workshop #3: Hands-on technical workshop                             |
+| 2:00 PM – 3:30 PM   | Workshop #3: Job Hunting & Internship Prep Workshop                             |
 | 3:30 PM – 4:00 PM   | Networking and coffee break                                          |
-| 4:00 PM – 5:30 PM   | Workshop #4: Hands-on technical workshop                             |
+| 4:00 PM – 5:30 PM   | Workshop #4: Devpost Submission Workshop                             |
 | 5:30 PM – 6:00 PM   | Project preparation and live demo setup                              |
 | 6:00 PM – 7:00 PM   | Project showcase and team demos                                      |
 | 7:00 PM – 7:30 PM   | Judging and finalist review                                          |
 | 7:30 PM – 8:00 PM   | Closing ceremony, awards, certificates, and group photo              |
+
+# Workshops
+
+## Workshop #1 — Hands-on Technical Workshop
+
+A hands-on technical session to help teams get started with the tools, APIs, and technologies used during the hackathon.
+
+## Workshop #2 — Career Readiness Workshop
+
+Get your professional profile ready:
+
+* Resume review and tech resume tips
+* LinkedIn profile setup
+* GitHub profile and project portfolio
+* Elevator pitch and networking basics
+
+## Workshop #3 — Job Hunting & Internship Prep Workshop
+
+Learn how to find and land tech roles:
+
+* Where to find internships, co-ops, and entry-level roles
+* Building an application tracker and applying strategically
+* Technical interview prep (coding challenges, problem solving)
+* Behavioral interview prep
+* Following up with recruiters and building referrals
+
+## Workshop #4 — Devpost Submission Workshop
+
+Make sure your project is eligible and judge-ready:
+
+* Creating your Devpost account and joining the hackathon
+* Writing the project writeup (problem, solution, architecture, technologies, challenges, results)
+* Recording a short demo video
+* Linking a public GitHub repository
+* Adding team members and submitting before the deadline
+
+All projects must be submitted through Devpost to be eligible for judging.
+
+Session B participants can join workshops virtually when they are livestreamed:
+
+http://gdgatfiu-zoom.vercel.app/
 
 ---
 

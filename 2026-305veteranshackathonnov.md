@@ -12,8 +12,8 @@
 
 ## Hosted By
 
-* Google Developer Group at FIU
-* Code Crunch Worldwide
+* Google Developer Group at FIU.
+* Code Crunch Worldwide.
 
 ---
 

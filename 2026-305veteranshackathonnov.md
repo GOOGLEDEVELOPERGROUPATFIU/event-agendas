@@ -15,7 +15,6 @@
 * Google Developer Group at FIU
 * Code Crunch Worldwide
 
-* Yordi
 
 ---
 
